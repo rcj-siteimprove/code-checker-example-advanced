@@ -1,5 +1,5 @@
-# code-checker-example-advanced
-Example showcasing the advanced features of the Code Checker
+# Code Checker Example: PNPM
+Example showcasing setting up the Code Checker with PNPM
 
 # Getting Started
 
