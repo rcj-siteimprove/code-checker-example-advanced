@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "node16",
+    "target": "es2023",
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node16"
+  }
+}
