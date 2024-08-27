@@ -23,3 +23,7 @@ Start local web server:
 pnpm run dev
 ```
 
+Run accessibility test:
+```
+node test/accessibility.spec.js
+```
